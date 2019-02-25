@@ -6,7 +6,8 @@
 1. 크롬
 2. 크롬 웹드라이버 http://chromedriver.chromium.org/
 3. python 3.7 https://www.python.org/
-4. selenium [pip install selenium]
+4. selenium 
+  명령창 : pip install selenium
 
 ## 사용 방법.
 - 크롬 웹 드라이버를 nabot.py와 동일한 경로에 위치
