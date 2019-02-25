@@ -1,0 +1,5 @@
+nike_id=
+nike_pw=
+shoes_size=
+shoes_url=
+is_time_check=False
