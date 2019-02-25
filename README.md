@@ -9,9 +9,9 @@
 4. python 3.7
 
 ## 사용 방법.
-1. 크롬 웹 드라이버를 nabot.py와 동일한 경로에 위치
-2. config.txt에 자신의 나이키id, password, 신발 사이즈, 구매하고자 하는 url 설정
-3. config.txt의 is_time_check 는 오전 10:00가 될때까지 대기할지 여부를 설정
+- 크롬 웹 드라이버를 nabot.py와 동일한 경로에 위치
+- config.txt에 자신의 나이키id, password, 신발 사이즈, 구매하고자 하는 url 설정
+- config.txt의 is_time_check 는 오전 10:00가 될때까지 대기할지 여부를 설정
   => False는 대기하지 않는다.
   
 ## 팁.
